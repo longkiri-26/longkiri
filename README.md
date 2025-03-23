@@ -1,2 +1,2 @@
 # longkiri
-This is my first github repository
+ AI powered Resume Screening and Ranking System
